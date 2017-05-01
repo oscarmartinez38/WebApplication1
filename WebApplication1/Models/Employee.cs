@@ -33,5 +33,6 @@ namespace WebApplication1.Models
 
         [Range(typeof(int), "5000", "50000", ErrorMessage = "Put a proper Salary value between 5000 and 50000")]
         public int? Salary { get; set; }
+
     }
 }

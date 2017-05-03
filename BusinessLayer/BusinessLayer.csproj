@@ -50,7 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessSettings.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="EmployeeBusinessLayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
